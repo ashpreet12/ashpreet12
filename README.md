@@ -9,7 +9,7 @@
 </p>
 <br/>
 <img src="https://im4.ezgif.com/tmp/ezgif-4-f0a0b31235.gif" alt="Logo" width="350" height="250">
-<br/><br/>
+<br/>
 
 ## About Me 🚀
 
