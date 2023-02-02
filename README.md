@@ -8,7 +8,7 @@
 <a href="https://www.leetcode.com/ashpreet_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashpreet_12" height="30" width="40" /></a>
 </p>
 <br/>
-<img src="https://cdn.dribbble.com/users/405145/screenshots/4167903/media/0fbbee1ffce11ad778af2bc90e7185ba.gif" alt="Logo" align="right" width="350" height="250">
+<img src="https://cdn.dribbble.com/users/405145/screenshots/4167903/media/0fbbee1ffce11ad778af2bc90e7185ba.gif" alt="Logo"  width="350" height="250">
 <br/>
 
 ## About Me 🚀
@@ -18,6 +18,7 @@
 * 🌟 I got selected as one of the 500 WE'21 scholars across India sponsored by Google and Talentsprint.
 
 * 💻  I got qualified for the Grand Finale of Smart India Hackathon 2022 by being in the Top 5 teams from across India.
+
 
 * 👭 I'm passionate about expanding my technical forte and
 contributing towards the society.
